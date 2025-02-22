@@ -29,22 +29,20 @@ pip install pycryptodome
 
 pip install pytz
 
-git clone https://github.com/Arifxeyracode-Dev/Prem
+git clone https://github.com/Arifxeyracode-Dev/Create
 
-cd Prem
+cd Create
 
-python3.12 menu.py
+python3.12 Arf_enc.py
 
-New Update Free All User
-
-• KEY REGISTER :  MFNNQ-OEKME-FESQB-BGTCC •
+•
 ```
 
 ### If you have installed it
 ```
 cd $HOME
-cd Prem
-python3.12 menu.py
+cd Create
+python3.12 Arf_enc.py
 ```
 
 ### Display
