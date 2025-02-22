@@ -15,9 +15,21 @@
 ```
 rm -rf Create
 
+pkg update
+
+pkg upgrade -y
+
 pkg install git python -y
 
 pip3.12 install requests pycryptodomex questionary
+
+pip install requests
+
+pip install faker
+
+pip install mechanize
+
+pip install stdiomask
 
 pip install fake_useragent
 
