@@ -13,7 +13,7 @@
 
 ### 🚀 Install on termux
 ```
-rm -rf Prem
+rm -rf Create
 
 pkg install git python -y
 
